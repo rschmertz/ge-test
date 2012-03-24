@@ -3,3 +3,6 @@ all:
 
 some:
 	echo better than none.
+
+love:
+	echo ...not war.
